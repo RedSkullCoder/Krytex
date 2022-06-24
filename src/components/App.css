@@ -1,0 +1,46 @@
+/* Styles go here */
+
+body, html {
+background-image: url("https://free4kwallpapers.com/uploads/originals/2019/08/28/gradient-blur-wallpaper.jpg");
+
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+
+
+
+
+}
+
+.saldo{
+margin-top:0px;
+margin-bottom:30px;
+color:white;
+}
+
+th{
+color:white;;
+}
+
+td{
+  color:white;;
+  }
+.contenedor{
+margin-top:100px !important;
+
+}
+.btn-dark{
+background-color:black !important;
+
+}
+
+.navbar-dark{
+background-color:black !important;
+
+}
+
